@@ -1,2 +1,4 @@
 # single-page-cv
-Create a single-page HTML CV to showcase your career history
+A single-page HTML CV to showcase my career history
+
+https://roadmap.sh/projects/single-page-cv
